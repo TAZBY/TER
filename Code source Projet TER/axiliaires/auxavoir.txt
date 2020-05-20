@@ -1,0 +1,36 @@
+//Ce fichier contient la conjugaison de l'auxiliaire avoir
+
+
+//sont présents dans ce fichier, les plus retrouvés dans les textes après une petite étude.
+
+//indicatif
+
+a
+ont
+
+avait
+avaient
+
+eu
+eut
+
+aura
+auront
+
+//partcipe present :
+
+ayant
+
+
+//conditionnel présent
+
+aurait
+auraient
+
+//subjonctif préssent
+
+ait
+aient
+
+
+

@@ -1,0 +1,8 @@
+// Ce fichier contient des relations sémantiques de type r_isa
+
+
+chat r_isa animal
+chat r_isa felin
+chat r_isa felin
+cancer r_isa maladie
+cancer r_isa maladie

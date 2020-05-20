@@ -1,0 +1,114 @@
+
+//r_isa
+
+nc1 être det nc2 => nc1 r_isa nc2
+nc1 être det nc2 punc => nc1 r_isa nc2
+det nc1 être det nc2 => nc1 r_isa nc2
+det nc1 être det nc2 punc => nc1 r_isa nc2
+nc1 nc2 être det nc3 => nc1 nc2 r_isa nc3
+nc1 nc2 être det nc3 punc => nc1 nc2 r_isa nc3
+det nc1 nc2 être det nc3 => nc1 nc2 r_isa nc3
+det nc1 nc2 être det nc3 punc => nc1 nc2 r_isa nc3
+det nc1 nc2 être p nc3 punc => nc1 nc2 r_isa nc3
+det nc1 p nc2 être det nc3 => nc1 r_isa nc3
+det nc1 p nc2 être p nc3 => nc1 r_isa nc3
+det nc1 p nc2 être det nc3 punc => nc1 r_isa nc3
+det nc1 p nc2 être p nc3 punc => nc1 r_isa nc3
+det nc1 p det nc2 être det nc3 => nc1 r_isa nc3
+det nc1 p det nc2 être det nc3 adj => nc1 r_isa nc3
+det nc1 p det nc2 être p nc3 => nc1 r_isa nc3
+det nc1 p det nc2 être p nc3 adj => nc1 r_isa nc3
+
+// à completer
+
+
+//r_own
+
+nc1 avoir det nc2 => nc1 r_own nc2
+nc1 avoir det nc2 punc => nc1 r_own nc2
+det nc1 avoir det nc2 => nc1 r_own nc2 
+det nc1 avoir det nc2 punc => nc1 r_own nc2 
+nc1 nc2 avoir det nc3 => nc1 nc2 r_own nc3
+nc1 nc2 avoir det nc3 punc => nc1 nc2 r_own nc3 
+nc1 nc2 avoir det nc3 punc => nc1 nc2 r_own nc3 
+det nc1 nc2 avoir det nc3 => nc1 nc2 r_own nc3 
+det nc1 nc2 avoir det nc3 punc => nc1 nc2 r_own nc3 
+det nc1 p nc2 avoir det nc3 => nc1 r_own nc3 
+det nc1 p nc2 avoir det nc3 punc => nc1 r_own nc3  
+det nc1 p det nc2 avoir det nc3 => nc1 r_own nc3  
+det nc1 p det nc2 avoir det nc3 punc => nc1 r_own nc3  
+
+nc1 posseder det nc2 => nc1 r_own nc2
+nc1 posseder det nc2 punc => nc1 r_own nc2
+det nc1 posseder det nc2 => nc1 r_own nc2 
+det nc1 posseder det nc2 punc => nc1 r_own nc2 
+nc1 nc2 posseder det nc3 => nc1 nc2 r_own nc3
+nc1 nc2 posseder det nc3 punc => nc1 nc2 r_own nc3 
+nc1 nc2 posseder det nc3 punc => nc1 nc2 r_own nc3 
+det nc1 nc2 posseder det nc3 => nc1 nc2 r_own nc3 
+det nc1 nc2 posseder det nc3 punc => nc1 nc2 r_own nc3 
+det nc1 p nc2 posseder det nc3 => nc1 r_own nc3 
+det nc1 p nc2 posseder det nc3 punc => nc1 r_own nc3  
+det nc1 p det nc2 posseder det nc3 => nc1 r_own nc3  
+det nc1 p det nc2 posseder det nc3 punc => nc1 r_own nc3  
+
+// à completer
+
+//r_carac
+
+nc1 être adj => nc1 r_carac adj
+nc1 être adj punc => nc1 r_carac adj 
+det nc1 être adj => nc1 r_carac adj 
+det nc1 être adj punc => nc1 r_carac adj 
+nc1 nc2 être adj => nc1 nc2 r_carac adj 
+nc1 nc2 être adj punc => nc1 nc2 r_carac adj  
+det nc1 nc2 être adj => nc1 nc2 r_carac adj  
+det nc1 nc2 être adj punc => nc1 nc2 r_carac adj  
+det nc1 p nc2 être adj => nc1 r_carac adj  
+det nc1 p nc2 être adj punc => nc1 r_carac adj  
+det nc1 p det nc2 être adj => nc1 r_carac adj  
+det nc1 p det nc2 être adj punc => nc1 r_carac adj  
+det nc1 p det nc2 être adj => nc1 r_carac adj  
+
+// à completer
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

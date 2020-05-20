@@ -1,0 +1,4 @@
+// Ce fichier contient des relations sémantiques de type r_own
+
+
+chat r_own queue

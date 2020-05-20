@@ -1,0 +1,41 @@
+//Ce fichier contient la conjugaison de l'auxiliaire être
+
+
+//sont présents dans ce fichier, les plus retrouvés dans les textes après une petite étude.
+
+//indicatif
+
+est
+sont
+
+était
+étaient
+
+fut
+furent
+
+sera
+seront
+
+//partcipe present :
+
+étant
+
+//participe passé
+
+été
+
+//conditionnel 
+
+serait
+seraient
+
+//subjonctif 
+
+soit
+soient
+
+fût
+fussent
+
+

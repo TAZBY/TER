@@ -1,0 +1,6 @@
+// Ce fichier contient des relations sémantiques de type r_own
+
+chat r_carac malade
+chat r_carac malade
+chat r_carac malade
+chat r_carac malade
